@@ -16,7 +16,7 @@ Every translation is composed of a configuration file, `{language-shortcut}.lang
  - Replace `display` with the name of your language, in your language. For example, if you're translating german, place “Deutsch” instead of “German”.
  - Replace prefix with `/{language-shortcut}/`.
  - Translate the values in the `p` and `t` fields.
- - Translate all the properties labeled `text` in the sidebar. **Note:** Since the latest version of this documentation, links in the sidebar no longer need to be updated.
+ - Translate all the properties labeled `text` in the sidebar. **Note:** Since the latest version of this documentation, the `href` property links in the sidebar no longer needs to be updated.
 
 ### Registering the configuration
 
